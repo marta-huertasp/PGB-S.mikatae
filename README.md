@@ -16,4 +16,4 @@ There are also some of the files with the data generated while working on the pr
 
 - Maria Artigues
 - Pablo Joel Choquehuanca
-- Marta Huertas.
+- Marta Huertas
