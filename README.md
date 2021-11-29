@@ -12,4 +12,6 @@ There are also some of the files with the data generated while working on the pr
 - Fasta files of novel and known ORFs and putative proteins
 
 
+## Authors
+
 Maria Artigues, Pablo Joel Choquehuanca and Marta Huertas.
