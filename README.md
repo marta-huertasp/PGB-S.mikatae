@@ -4,4 +4,6 @@ In this repository we are going to show the code we have used while analysing *S
 
 We have used bash commands, python and R. The **markdown** in this repository is composed by the scripts used in the three languages and coments on how we have decided to perform the analysis that make them easier to follow.
 
+We have also uploaded some of the data generated during the project.
+
 Maria, Pablo Joel and Marta. 
