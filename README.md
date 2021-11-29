@@ -8,8 +8,8 @@ This project has the aim of analysing *Saccharomyces mikatae* transcriptome. In 
 - R
 
 There are also some of the files with the data generated while working on the project. 
-- GFF
-- Fasta files 
+- Novel and Known GFFs
+- Fasta files of novel and known ORFs and putative proteins
 
 
 Maria Artigues, Pablo Joel Choquehuanca and Marta Huertas.
