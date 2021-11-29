@@ -14,4 +14,6 @@ There are also some of the files with the data generated while working on the pr
 
 ## Authors
 
-Maria Artigues, Pablo Joel Choquehuanca and Marta Huertas.
+- Maria Artigues
+- Pablo Joel Choquehuanca
+- Marta Huertas.
