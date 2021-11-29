@@ -1,9 +1,15 @@
 # PGB-S.mikatae
 
-In this repository we are going to show the code we have used while analysing *S. mikatae* transcriptome.
+This is the repository of the Principals of Genome Bioinformatics (PGB) project in the Master in Bioinformatics for Health Sciences.
 
-We have used bash commands, python and R. The **markdown** in this repository is composed by the scripts used in the three languages and coments on how we have decided to perform the analysis that make them easier to follow.
+This project has the aim of analysing *Saccharomyces mikatae* transcriptome. In this repository we have uploaded a **Markdown** containing the code we have used:
+- Bash 
+- Python
+- R
 
-We have also uploaded some of the data generated during the project.
+There are also some of the files with the data generated while working on the project. 
+- GFF
+- Fasta files 
 
-Maria, Pablo Joel and Marta. 
+
+Maria Artigues, Pablo Joel Choquehuanca and Marta Huertas.
